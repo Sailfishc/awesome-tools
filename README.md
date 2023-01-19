@@ -4,7 +4,7 @@
 
 * Mac主要使用的是Surge Mac（合租），辅助会用到Stash  Mac和ClashX Pro
 * IOS Surge和QX都在使用，主要是都买了，手机主要用Surge（规则的一致性），iPad使用的是QX
-* 家里的使用Mac Mini M1 \+ Surge  Mac接管网络，在家所有的设备不需要再开科学上网工具，之前使用的是R2s\+Padavan固件，体验也不差，并且价格便宜
+* 家里的使用Mac Mini M1 \+ Surge  Mac接管网络，使用Surgio管理规则，在家所有的设备不需要再开科学上网工具，之前使用的是R2s\+Padavan固件，体验也不差，并且价格便宜
 ## Mac软件
 
 * IDEA：不用说了
@@ -30,6 +30,7 @@
 * iHost：管理Host，**[Gas Mask](https://github.com/2ndalpha/gasmask)也不错**
 * ProxyMan：抓包工具，现代化GUI，方便，可以在SetAPP中使用
 * DevUtil：提供了很多开发的小工具，可以在SetAPP中使用
+* Dash：API管理工具，提供了丰富的API文档，可以在SetAPP使用
 
 ### 效率工具
 * [Alfred](https://www.alfredapp.com/)：启动器，还有Raycast也比较不错
@@ -42,6 +43,10 @@
 * **[KeyCastr](https://github.com/keycastr/keycastr)**：按键显示
 * **[Bob](https://github.com/ripperhe/Bob)**，Mac 端翻译软件，支持划词翻译、截图翻译等
 * Things3：任务管理软件，以Project为中心，简洁
+* [Hook Mark](https://hookproductivity.com/)：提供Deeplink，可以Link到本地的任何文件
+* [DEVONthink](https://www.devontechnologies.com/apps/devonthink)：Collect, organize, edit and annotate documents of any kind，你的本地文件管理器
+* [stats](https://github.com/exelban/stats)：系统监控工具，替代iStat Meuns的工具
+* [Hidden Bar](https://github.com/dwarvesf/hidden)：管理菜单栏的工具
 
 ### 其他
 * **[IINA](https://github.com/iina/iina)**，视频播放
