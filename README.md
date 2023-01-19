@@ -81,7 +81,6 @@
 
 * MacBook Pro 16寸19款：公司用的电脑
 * Mac Mini M1 ：性价比之选，2021年二手买的，24小时开机，作为日常工作电脑，也承担了家里网络代理
-
 * 显示器：
   * Studio Display：在家使用，之前使用的是Dell 42寸的5k显示器，后来卖出买了Studio Display
   * Dell 2027QM：在公司使用，比较不错的4k显示器
